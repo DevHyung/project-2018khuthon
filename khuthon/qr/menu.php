@@ -117,6 +117,9 @@ if(!isset($_SESSION))
     	$("#point").click(function(){
 			 window.location = "./point.php";
 	});
+        $("#deposit").click(function(){
+             window.location = "./deposit.php";
+    });
     </script>
 </body>
 
