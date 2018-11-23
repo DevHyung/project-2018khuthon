@@ -1,6 +1,6 @@
 # pycharm Conifg
 .idea/
-
+__pycache__/
 # etc..
 
 chromedriver
